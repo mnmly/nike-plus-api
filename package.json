@@ -1,0 +1,7 @@
+{
+  "name": "nike-plus-api",
+  "dependencies": {
+    "superagent": "*",
+    "underscore": "*"
+  }
+}
