@@ -1,5 +1,6 @@
 {
   "name": "nike-plus-api",
+  "description": "Unofficial Nike+ API client for node.js. Making it easy to access social-related APIs on Nike+ that are not documented on API docs yet."
   "version": "0.0.1",
   "dependencies": {
     "superagent": "*",
