@@ -47,12 +47,12 @@ function grabNext(res, limit){
 
 ### API
 
-  - [Client()](#client)
-  - [Client.snapshot()](#clientsnapshotuseridnumbernextfunction)
+  - [Client()](#clienttokenstring)
+  - [Client.snapshot()](#clientsnapshotuseridnumber-nextfunction)
   - [Client.myFriendsFeed()](#clientmyfriendsfeednextfunction)
-  - [Client.myFriendsList()](#clientmyfriendslistqueryobjectnextfunction)
-  - [Client.get()](#clientgetpathstringqueryobjectnextfunction)
-  - [Client.getFeed()](#clientgetfeed)
+  - [Client.myFriendsList()](#clientmyfriendslistqueryobject-nextfunction)
+  - [Client.get()](#clientgetpathstring-queryobject-nextfunction)
+  - [Client.getFeed()](#clientgetpathstring-queryobject-nextfunction)
 
 ### Client(token:String)
 
