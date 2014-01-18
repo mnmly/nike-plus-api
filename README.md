@@ -80,5 +80,9 @@ function grabNext(res, limit){
   Handles API call that has multiple pages
 
 
+## TODOs
+
+- Add official methods
+
 ## License
 MIT

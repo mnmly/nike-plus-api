@@ -1,5 +1,6 @@
 {
   "name": "nike-plus-api",
+  "version": "0.0.1",
   "dependencies": {
     "superagent": "*",
     "underscore": "*"
